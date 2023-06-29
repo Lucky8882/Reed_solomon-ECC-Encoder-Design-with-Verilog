@@ -15,6 +15,21 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
 ### RS Encoding
 *** Input
 * Message Bits  :  m = [m(0),m(1),m(2),……..m(k-1)]
-*
+* Message Polynomial  :  fm(X) = m(0) + m(1).X + m(2).X^2 + ……… + m(k-1).X^k-1
+* Where each coefficient of x is a 8-bit symbol to be transmitted
+* Multiply the information Polynomial by X^(n-k) 
+* Divide the results by generator polynomial g(x) gives the result r(x)  (Details of g(x) is Given Below) 
+* Encoded message polynomial which represent transmitting codeword
+* C(x) = fm(X) . X^(n-k) + r(x) 
+
+
+### Generator Polynomial
+***
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/a9f0d971-7989-43b5-b509-7bbd498f4141)
+
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/387e8189-2a3c-43ba-a060-958527598489)
+
+
+
 
 

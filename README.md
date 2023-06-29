@@ -45,10 +45,12 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
 ## RTL Design
 
 ### Encoder Architechture
-* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/2535f26a-2399-4b40-8cd7-9f906b965768)
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/ae5cbf2b-68aa-4b15-a3b8-1fa069a07fb2)
+
 
 ## Simulation Results
 
-* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/431372f8-10b8-4ddb-ad2a-220c1e3cb0e1)
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/290380ea-639e-4d53-ab47-b1b1435ddb66)
+
 
 

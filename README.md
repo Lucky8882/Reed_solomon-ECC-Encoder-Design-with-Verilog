@@ -42,4 +42,13 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
    (37.x^15 + 133.x^14 + 225.x^13 + 126.x^12 + 37.x^11 + 59.x^10 + 132.x^9 + 133.x^8 + 56.x^7 + 168.x^6 + 179.x^5 + 4.x^4 + 9.x^3 + 99.x^2 + 79.x  + 148)
 
 
+## RTL Design
+
+### Encoder Architechture
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/2535f26a-2399-4b40-8cd7-9f906b965768)
+
+## Simulation Results
+
+* ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/431372f8-10b8-4ddb-ad2a-220c1e3cb0e1)
+
 

@@ -33,7 +33,7 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
 ### Example of Encoding
 ***  (255,239) Block Code
 * Information bit
-** (1,2,3,4,5,,…………….,,239)
+     (1,2,3,4,5,,…………….,,239)
 * Information Polynomial  
    (x^238 + 2.x^237 + 3.x^236 + ……………+ 238. x + 239)
    (x^238 + 2.x^237 + 3.x^236 + ……………+ 238. x + 239)*(x^16)

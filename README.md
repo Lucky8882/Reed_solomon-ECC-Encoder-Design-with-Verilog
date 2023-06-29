@@ -1,4 +1,4 @@
-# Reed_solomon-Encoder-Design-and-Implementation-on-FPGA
+# Reed_solomon-Encoder-Design-with-Verilog
 
 ## Encoder Design of Reed Solomon Code
 ### Code Block Size (255,239) Bytes

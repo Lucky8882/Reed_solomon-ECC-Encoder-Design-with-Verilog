@@ -12,5 +12,9 @@
 Reed-Solomon (RS) codes have been in use for several decades and have been widely adopted in various communication systems, including satellite communication.
 Type of (n,k) Block Code, (n,k) t-error correcting code
 
+### RS Encoding
+*** Input
+* Message Bits  :  m = [m(0),m(1),m(2),……..m(k-1)]
+*
 
 

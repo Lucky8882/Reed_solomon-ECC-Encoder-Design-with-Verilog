@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../reed_solomon_0206.srcs/sources_1/new/FF.v" \
+"../../../../reed_solomon_0206.srcs/sources_1/new/GFADD.v" \
+"../../../../reed_solomon_0206.srcs/sources_1/new/GFMUL8.v" \
+"../../../../reed_solomon_0206.srcs/sources_1/new/rs.v" \
+"../../../../reed_solomon_0206.srcs/sources_1/new/rs_testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

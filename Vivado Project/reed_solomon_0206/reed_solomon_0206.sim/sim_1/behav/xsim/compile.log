@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/FF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FF
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/GFADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GFADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/GFMUL8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GFMUL8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/rs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rs_encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/rs_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module teststim
+WARNING: [VRFC 10-2096] empty statement in sequential block [D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.srcs/sources_1/new/rs_testbench.v:10]

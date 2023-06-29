@@ -1,0 +1,20 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot teststim_behav xil_defaultlib.teststim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "D:/Lucky_Xilinx/reed_solomon_0206/reed_solomon_0206.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.FF
+Compiling module xil_defaultlib.GFADD
+Compiling module xil_defaultlib.GFMUL8
+Compiling module xil_defaultlib.rs_encoder
+Compiling module xil_defaultlib.teststim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot teststim_behav

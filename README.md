@@ -34,10 +34,10 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
 ***  (255,239) Block Code
 * Information bit
 ** (1,2,3,4,5,,…………….,,239)
-* Information Polynomial
+* Information Polynomial  
    (x^238 + 2.x^237 + 3.x^236 + ……………+ 238. x + 239)
    (x^238 + 2.x^237 + 3.x^236 + ……………+ 238. x + 239)*(x^16)
-* Encoded Message Polynomial
+* Encoded Message Polynomial  
    (x^238 + 2.x^237 + … + 238.x +239) + 
    (37.x^15 + 133.x^14 + 225.x^13 + 126.x^12 + 37.x^11 + 59.x^10 + 132.x^9 + 133.x^8 + 56.x^7 + 168.x^6 + 179.x^5 + 4.x^4 + 9.x^3 + 99.x^2 + 79.x  + 148)
 

@@ -46,6 +46,16 @@ Type of (n,k) Block Code, (n,k) t-error correcting code
 
 ### Encoder Architechture
 * ![image](https://github.com/Lucky8882/Reed_solomon-Encoder-Design-and-Implementation-on-FPGA/assets/35170092/ae5cbf2b-68aa-4b15-a3b8-1fa069a07fb2)
+* Inputs  
+   data_in : 239 bytes of message  
+   Serially 1 byte with each clock  
+   Clock  
+   Gin0,gin1…    generator polynomial coefficient  
+   Reset  
+* Output    
+   q0,q1,q2,q3,……q15     output parity bytes  
+   Valid only low when all symbols is received and parity bytes has been generated  
+
 
 
 ## Simulation Results
